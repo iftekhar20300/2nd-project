@@ -1,0 +1,198 @@
+* {
+  margin: 0px;
+}
+
+.green {
+  width: 500px;
+  height: 300px;
+  background-color: green;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 50px;
+  overflow: hidden;
+}
+
+.red {
+  width: 250px;
+  height: 250px;
+  background-color: red;
+  border-radius: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin: 24px auto;
+}
+
+.german {
+  width: 500px;
+  height: 100px;
+  background-color: red;
+  margin: 50px auto;
+  border-top: 100px solid black;
+  border-bottom: 100px solid yellow;
+}
+
+.argentina {
+  width: 500px;
+  height: 100px;
+  background-color: white;
+  border-top: 100px solid skyblue;
+  border-bottom: 100px solid skyblue;
+  margin: 50px auto;
+  text-align: center;
+}
+
+.argentina img {
+  width: 100px;
+}
+
+.canada {
+  width: 300px;
+  height: 200px;
+  background-color: white;
+  border-left: 100px solid red;
+  border-right: 100px solid red;
+  margin: 50px auto;
+  text-align: center;
+}
+
+.canada img {
+  width: 200px;
+}
+
+.india {
+  width: 500px;
+  height: 100px;
+  background-color: white;
+  border-top: 100px solid orange;
+  border-bottom: 100px solid green;
+  margin: 50px auto;
+  text-align: center;
+}
+.india img {
+  width: 123px;
+}
+.afgan {
+  width: 200px;
+  height: 300px;
+  background-color: red;
+  border-left: 150px solid black;
+  border-right: 150px solid rgb(17, 51, 17);
+  margin: 70px auto;
+
+  overflow: hidden;
+}
+.afgan img {
+  width: 200px;
+  margin: 20px auto;
+  padding: auto;
+  margin-top: 50px;
+}
+
+.albania {
+  width: 500px;
+  height: 300px;
+  background-color: rgb(109, 30, 30);
+  margin: auto;
+  text-align: center;
+}
+.albania img {
+  width: 250px;
+  margin-top: 60px;
+}
+
+.green {
+  width: 500px;
+  height: 300px;
+  background-color: rgb(32, 80, 32);
+  margin: 50px auto;
+  text-align: center;
+}
+
+.green img {
+  width: 200px;
+  margin-top: 60px;
+}
+
+.andorra {
+  width: 300px;
+  height: 250px;
+  background-color: yellow;
+  margin: 50px auto;
+  border-left: 100px solid rgb(51, 51, 143);
+  border-right: 100px solid rgb(211, 69, 69);
+  text-align: center;
+}
+.andorra img {
+  width: 280px;
+  margin-top: 50px;
+}
+
+.armenia {
+  width: 500px;
+  height: 100px;
+  background-color: rgb(43, 43, 124);
+  border-top: 100px solid red;
+  border-bottom: 100px solid rgb(214, 151, 35);
+  margin: 50px auto;
+}
+
+.austria {
+  width: 500px;
+  height: 100px;
+  background-color: white;
+  border-top: 100px solid red;
+  border-bottom: 100px solid red;
+  margin: 50px auto;
+}
+
+.belgium {
+  width: 230px;
+  height: 230px;
+  background-color: rgb(214, 214, 59);
+  border-left: 130px solid black;
+  border-right: 130px solid red;
+  margin: 50px auto;
+}
+
+.bolivia {
+  width: 500px;
+  height: 100px;
+  background-color: yellow;
+  border-top: 100px solid red;
+  border-bottom: 100px solid rgb(32, 65, 32);
+  margin: 50px auto;
+  text-align: center;
+}
+.bolivia img {
+  width: 100px;
+}
+
+.colombia {
+  width: 500px;
+  height: 100px;
+  background-color: rgb(30, 18, 87);
+  border-top: 170px solid orange;
+  border-bottom: 100px solid red;
+  margin: 50px auto;
+}
+
+.indoneshia {
+  width: 500px;
+  height: 150px;
+  background-color: rgb(245, 237, 237);
+  border-top: 150px solid red;
+  margin: 50px auto;
+}
+
+.ghana {
+  width: 500px;
+  height: 100px;
+  background-color: rgb(182, 182, 30);
+  border-top: 100px solid red;
+  border-bottom: 100px solid green;
+  margin: 50px auto;
+  text-align: center;
+}
+.ghana img {
+  width: 103px;
+}
